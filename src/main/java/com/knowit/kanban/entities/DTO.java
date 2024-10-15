@@ -18,4 +18,6 @@ public class DTO {
 	public List<Task> IN_PROGRESS;
 	public List<Task> COMPLETED;
 	public List<Task> CANCELLED;
+	
+	//stasa
 }
